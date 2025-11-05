@@ -8,11 +8,11 @@
 
                 <picture>
 
-                    <source srcset="/public/build/img/blog1.webp" type="image/webp">
+                    <source srcset="/build/img/blog1.webp" type="image/webp">
 
-                    <source srcset="/public/build/img/blog1.jpg" type="image/jpeg">
+                    <source srcset="/build/img/blog1.jpg" type="image/jpeg">
 
-                    <img loading="lazy" src="/public/build/img/blog1.jpg" alt="Texto entrada blog">
+                    <img loading="lazy" src="/build/img/blog1.jpg" alt="Texto entrada blog">
 
                 </picture>
 
@@ -42,11 +42,11 @@
 
                 <picture>
 
-                    <source srcset="/public/build/img/blog2.webp" type="image/webp">
+                    <source srcset="/build/img/blog2.webp" type="image/webp">
 
                     <source srcset="build/img/blog2.jpg" type="image/jpeg">
 
-                    <img loading="lazy" src="/public/build/img/blog2.jpg" alt="Texto entrada blog">
+                    <img loading="lazy" src="/build/img/blog2.jpg" alt="Texto entrada blog">
 
                 </picture>
 
@@ -74,11 +74,11 @@
 
                 <picture>
 
-                    <source srcset="/public/build/img/blog3.webp" type="image/webp">
+                    <source srcset="/build/img/blog3.webp" type="image/webp">
 
-                    <source srcset="/public/build/img/blog3.jpg" type="image/jpeg">
+                    <source srcset="/build/img/blog3.jpg" type="image/jpeg">
 
-                    <img loading="lazy" src="/public/build/img/blog3.jpg" alt="Texto entrada blog">
+                    <img loading="lazy" src="/build/img/blog3.jpg" alt="Texto entrada blog">
 
                 </picture>
 
@@ -106,11 +106,11 @@
 
                 <picture>
 
-                    <source srcset="/public/build/img/blog4.webp" type="image/webp">
+                    <source srcset="/build/img/blog4.webp" type="image/webp">
 
-                    <source srcset="/public/build/img/blog4.jpg" type="image/jpeg">
+                    <source srcset="/build/img/blog4.jpg" type="image/jpeg">
 
-                    <img loading="lazy" src="/public/build/img/blog4.jpg" alt="Texto entrada blog">
+                    <img loading="lazy" src="/build/img/blog4.jpg" alt="Texto entrada blog">
 
                 </picture>
 

@@ -24,7 +24,7 @@ if(!isset($inicio)) {
 
     <title>Bienes Raices</title>
 
-    <link rel="stylesheet" href="/public/build/css/app.css">
+    <link rel="stylesheet" href="/build/css/app.css">
 
 </head>
 
@@ -40,19 +40,19 @@ if(!isset($inicio)) {
 
                 <a href="/">
 
-                    <img src="/public/build/img/logo.svg" alt="logo">
+                    <img src="/build/img/logo.svg" alt="logo">
 
                 </a>
 
                 <div class="mobile-menu">
 
-                    <img src="/public/build/img/barras.svg" alt="menu responsive">
+                    <img src="/build/img/barras.svg" alt="menu responsive">
 
                 </div>
 
                 <div class="derecha">
 
-                    <img class="dark-mode-btn" src="/public/build/img/dark-mode.svg" alt="darkmode">
+                    <img class="dark-mode-btn" src="/build/img/dark-mode.svg" alt="darkmode">
 
                     <nav class="navegacion">
 
@@ -108,7 +108,7 @@ if(!isset($inicio)) {
 
     </footer>
 
-    <script src="/public/build/js/bundle.js"></script>
+    <script src="/build/js/bundle.js"></script>
 
 </body>
 

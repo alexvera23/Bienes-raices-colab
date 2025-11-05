@@ -8,9 +8,9 @@
 
                 <!--<source srcset="build/img/destacada.webp" type="image/webp">-->
 
-                <source src="/public/imagenes/<?php echo $propiedad->imagen;?>" type="image/jpeg">
+                <source src="/imagenes/<?php echo $propiedad->imagen;?>" type="image/jpeg">
 
-                <img loading="lazy" src="/public/imagenes/<?php echo $propiedad->imagen;?>" alt="imagen propiedad">
+                <img loading="lazy" src="/imagenes/<?php echo $propiedad->imagen;?>" alt="imagen propiedad">
 
             </picture>
 
@@ -22,7 +22,7 @@
 
                     <li>
 
-                        <img class="icono" loading="lazy" src="/public/build/img/icono_wc.svg" alt="icono wc">
+                        <img class="icono" loading="lazy" src="/build/img/icono_wc.svg" alt="icono wc">
 
                         <p><?php echo $propiedad->wc;?></p>
 
@@ -30,7 +30,7 @@
 
                     <li>
 
-                        <img class="icono" loading="lazy" src="/public/build/img/icono_estacionamiento.svg" alt="icono estacionamiento">
+                        <img class="icono" loading="lazy" src="/build/img/icono_estacionamiento.svg" alt="icono estacionamiento">
 
                         <p><?php echo $propiedad->estacionamiento;?></p>
 
@@ -38,7 +38,7 @@
 
                     <li>
 
-                        <img class="icono" loading="lazy" src="/public/build/img/icono_dormitorio.svg" alt="icono dormitorio">
+                        <img class="icono" loading="lazy" src="/build/img/icono_dormitorio.svg" alt="icono dormitorio">
 
                         <p><?php echo $propiedad->habitaciones;?></p>
 

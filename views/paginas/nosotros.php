@@ -8,11 +8,11 @@
 
                 <picture>
 
-                    <source srcset="/public/build/img/nosotros.webp" type="image/webp">
+                    <source srcset="/build/img/nosotros.webp" type="image/webp">
 
-                    <source srcset="/public/build/img/nosotros.jpg" type="image/jpeg">
+                    <source srcset="/build/img/nosotros.jpg" type="image/jpeg">
 
-                    <img loading="lazy" src="/public/build/img/nosotros.jpg" alt="sobre nosotros">
+                    <img loading="lazy" src="/build/img/nosotros.jpg" alt="sobre nosotros">
 
                 </picture>
 

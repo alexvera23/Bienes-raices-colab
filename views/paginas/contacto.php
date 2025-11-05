@@ -12,11 +12,11 @@
 
     <picture>
 
-        <source srcset="/public/build/img/destacada3.webp" type="image/webp">
+        <source srcset="/build/img/destacada3.webp" type="image/webp">
 
-        <source srcset="/public/build/img/destacada3.jpg" type="image/jpeg">
+        <source srcset="/build/img/destacada3.jpg" type="image/jpeg">
 
-        <img loading="lazy" src="/public/build/img/destacada3.jpg" alt="imagen contacto">
+        <img loading="lazy" src="/build/img/destacada3.jpg" alt="imagen contacto">
 
     </picture>
 

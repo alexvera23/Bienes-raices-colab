@@ -4,7 +4,7 @@
 
             <picture>
 
-                <source srcset="/public/build/img/destacada2.webp" type="image/webp">
+                <source srcset="/build/img/destacada2.webp" type="image/webp">
 
                 <source srcset="/build/img/destacada2.jpg" type="image/jpeg">
 

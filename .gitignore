@@ -1,1 +1,18 @@
 .vscode/sftp.json
+/vendor
+
+# Dependencias de JavaScript (Node.js)
+# (Este proyecto compila CSS/JS, así que seguro usa Node)
+/node_modules
+
+# Archivos subidos por el usuario (¡MUY IMPORTANTE!)
+# Aquí se guardan las fotos de las propiedades
+/public/imagenes
+
+# Archivos de configuración local (Buena práctica)
+# Si en el futuro guardas tu contraseña de BD aquí
+.env
+
+# Archivos "basura" del sistema operativo
+.DS_Store
+Thumbs.db

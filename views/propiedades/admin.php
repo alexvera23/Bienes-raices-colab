@@ -68,7 +68,7 @@
 
                         <td><p><?php echo $propiedad->titulo;?></p></td>
 
-                        <td><img src="/public/imagenes/<?php echo $propiedad->imagen;?>" class="imagen-tabla"></td>
+                        <td><img src="/imagenes/<?php echo $propiedad->imagen;?>" class="imagen-tabla"></td>
 
                         <td><p>$<?php echo $propiedad->precio;?></p></td>
 

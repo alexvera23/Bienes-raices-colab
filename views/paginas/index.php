@@ -46,11 +46,11 @@
 
                     <picture>
 
-                        <source srcset="/public/build/img/blog1.webp" type="image/webp">
+                        <source srcset="/build/img/blog1.webp" type="image/webp">
 
-                        <source srcset="/public/build/img/blog1.jpg" type="image/jpeg">
+                        <source srcset="/build/img/blog1.jpg" type="image/jpeg">
 
-                        <img class="icono" loading="lazy" src="/public/build/img/blog1.jpg" alt="Texto entrada blog">
+                        <img class="icono" loading="lazy" src="/build/img/blog1.jpg" alt="Texto entrada blog">
 
                     </picture>
 
@@ -80,11 +80,11 @@
 
                     <picture>
 
-                        <source srcset="/public/build/img/blog2.webp" type="image/webp">
+                        <source srcset="/build/img/blog2.webp" type="image/webp">
 
-                        <source srcset="/public/build/img/blog2.jpg" type="image/jpeg">
+                        <source srcset="/build/img/blog2.jpg" type="image/jpeg">
 
-                        <img class="icono" loading="lazy" src="/public/build/img/blog2.jpg" alt="Texto entrada blog">
+                        <img class="icono" loading="lazy" src="/build/img/blog2.jpg" alt="Texto entrada blog">
 
                     </picture>
 
