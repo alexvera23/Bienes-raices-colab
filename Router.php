@@ -5,7 +5,6 @@
 namespace MVC;
 
 
-
 class Router{
 
 
@@ -40,7 +39,7 @@ class Router{
 
 
 
-        session_start();
+         session_start();
 
         $auth = $_SESSION['login'] ?? null;
 

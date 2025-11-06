@@ -1,6 +1,6 @@
 <?php
 
-define('CARPETA_IMAGENES', $_SERVER['DOCUMENT_ROOT'] . '/public/imagenes/');
+define('CARPETA_IMAGENES', $_SERVER['DOCUMENT_ROOT'] . '/../public/imagenes/');
 
 function incluirTemplate(string $nombre, bool $inicio = false) {
 
