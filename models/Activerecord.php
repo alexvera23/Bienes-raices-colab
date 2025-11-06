@@ -3,7 +3,7 @@ namespace Model;
 
 class ActiveRecord {
 
-    //Base de datos
+    //Base de datos :)
     protected static $db;
     protected static $columnasDB = [];
     protected static $tabla = "";
@@ -20,7 +20,6 @@ class ActiveRecord {
 
 
     //Si hay un id llama a la funcion guardar() y si no a crear()
-    //Esto es un principio de Active Record
     public function guardar() {
         if($this->id) {
             //actualizar
@@ -110,7 +109,7 @@ class ActiveRecord {
         } 
     }
 
-    //Eliminar imagen
+    //Eliminar imagen del servidor
     public function borrarImagen() {
         //Comprobar si existe el archivo
         $archivoExiste = file_exists(CARPETA_IMAGENES . $this->imagen);
